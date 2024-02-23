@@ -154,6 +154,10 @@ hr {
   background-color: #db3022;
 }
 
+.color-newprod li {
+  padding-left: 2%;
+}
+
 @media only screen and (max-width: 600px) {
   .category {
     display: block;
